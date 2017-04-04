@@ -1,2 +1,2 @@
 # schoolwork
-All things MIT
+A portfolio for some of my (James Baker) work. 
